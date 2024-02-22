@@ -1,0 +1,24 @@
+.zi{margin-left: 700px;
+    font-style: oblique;
+    color:rgb(0, 0, 0) ;
+    
+}
+.nav ul{
+    display: flex;
+
+}
+.img1{
+    display: flex;
+    font-size: 120%;
+
+}
+.img1 p{
+    width: 50%;
+}
+
+body {
+    background: rgb(208,125,23);
+background: linear-gradient(90deg, rgba(208,125,23,1) 0%, rgba(214,197,30,1) 32%, rgba(214,177,9,1) 38%, rgba(212,186,10,1) 58%, rgba(222,174,13,1) 74%, rgba(222,188,13,1) 85%, rgba(222,142,13,1) 100%);
+
+}
+
